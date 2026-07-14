@@ -10,10 +10,10 @@ So annoying, so annoying, why do people need to learn?
 print("hello")
 ```
 
-啊啊啊 我是大聪明
-
-Ahhh, I am very smart.
-
 你知道吗，我很棒
 
-Did you know? I am great.
+Did you know? I'm awesome.
+
+你一定可以的
+
+You can definitely do it.
