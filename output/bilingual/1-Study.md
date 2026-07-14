@@ -12,4 +12,8 @@ print("hello")
 
 救命就大命
 
-Help is crucial.
+Help is a big deal.
+
+啊啊啊 我是大聪明
+
+Ahhhh, I am so smart!
