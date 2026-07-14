@@ -4,7 +4,6 @@ So annoying, so annoying, why do people need to learn?
 ```python
 print("hello")
 ```
+Ahhhh I am so smart
 
-Help, it's a big deal
-
-Ahhhh, I am so smart
+Did you know? I'm awesome

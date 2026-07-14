@@ -10,10 +10,10 @@ So annoying, so annoying, why do people need to learn?
 print("hello")
 ```
 
-救命就大命
-
-Help is a big deal.
-
 啊啊啊 我是大聪明
 
-Ahhhh, I am so smart!
+Ahhh, I am very smart.
+
+你知道吗，我很棒
+
+Did you know? I am great.
