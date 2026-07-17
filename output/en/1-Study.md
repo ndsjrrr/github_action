@@ -5,6 +5,8 @@ So annoying, so annoying, why do people need to learn?
 print("hello")
 ```
 
-Did you know? I'm great.
+Did you know? I'm awesome.
 
 You can definitely do it!
+
+Start changing from now on, you can be the best in the world!
