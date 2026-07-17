@@ -4,7 +4,7 @@
 
 好烦啊好烦，人为什么要学习呢？
 
-So annoying, so annoying, why do people need to learn?
+So annoying, so annoying. Why do people need to learn?
 
 ```python
 print("hello")
@@ -14,6 +14,6 @@ print("hello")
 
 Did you know? I'm awesome.
 
-你一定可以的
+你一定可以的!
 
-You can definitely do it.
+You can definitely do it!
